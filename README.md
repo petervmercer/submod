@@ -1,0 +1,2 @@
+# submod
+Submodule plugin example
