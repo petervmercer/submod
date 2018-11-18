@@ -1,2 +1,4 @@
 1. First change in submodule made inside of core code
 2. Second change outside the core code
+
+3. NEW BRANCH CODE
