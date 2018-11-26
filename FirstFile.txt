@@ -1,3 +1,5 @@
 1. First change in submodule made MERGE inside of core code
-2. Conflict
+2. Conflict - FIXED
+3. FIXED
 2. Second change MERGE remove the core code
+3. Conflict raiser
